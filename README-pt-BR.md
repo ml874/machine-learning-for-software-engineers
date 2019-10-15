@@ -49,7 +49,7 @@ Eu estou seguindo este plano para me preparar para meu próximo futuro emprego: 
 
 Pense sobre meu interesse em Machine Learning:
 
-- [Posso aprender e arrumar um emprego em Machine Learning sem estudar mestrado e Phd em Ciência da Computação?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
+- [Posso aprender e arrumar um emprego em Machine Learning sem estudar mestrado e PhD em Ciência da Computação?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     - *"Você pode, mas isto é muito mais difícil do que quando eu entrei no campo."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
 
 - [Como eu consigo um emprego em Machine Learning como um programador de software que auto-estudou  Machine Learning, mas nunca teve a chance de usar isso no trabalho?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
@@ -211,7 +211,7 @@ Cada dia eu pego um assunto da lista abaixo, leia de capa a capa, tome nota, fa�
 - [ ] [Level-Up Your Machine Learning](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
 - [ ] [Enough Machine Learning to Make Hacker News Readable Again](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
 
-## Torne-se um contribuidor Open Sourse
+## Torne-se um contribuidor Open Source
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
